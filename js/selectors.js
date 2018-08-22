@@ -9,5 +9,5 @@ function divSelector(){
   return $('.pics')
 }
 function firstListItem(){
-  return $('#pic-list li:firstListItem')
+  return $('#pic-list li:fir')
 }
